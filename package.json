@@ -1,0 +1,11 @@
+{
+  "name": "im-node-xmpp",
+  "version": "0.1.0",
+  "author": "AIM Team",
+  "description": "AIM Desktop Application",
+  "devDependencies": {
+    "node-uuid": "^1.4.7",
+    "node-xmpp-client": "^3.0.1",
+    "vantage": "^1.7.0"
+  }
+}
